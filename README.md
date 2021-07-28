@@ -1,6 +1,6 @@
 # Password-Generator-and-Manager
 
-A simple password generator and manager with interactive GUI.
+A simple password generator and manager with interactive GUI. Made using Python and Tkinter
 
 The generator lets you choose length and character types for the needed password.
 
